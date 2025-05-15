@@ -1,26 +1,15 @@
-#  Hey there, I'm Mumtaz!  
-### **Azure Administrator | Cloud Automation Enthusiast | Problem Solver**  
+#  Azure Troubleshooting Guide  
+### **A structured repository for resolving common Azure issues**  
 
- **About Me**  
-I have over **2 years of experience** in the **Azure platform**, specializing in **cloud infrastructure, automation, and troubleshooting**. My expertise spans configuring and managing **Compute, Storage, Networking, Application Gateway, Load Balancer, Traffic Manager, Azure Front Door, Key Vault, and Azure App Services**.  
+**Overview**  
+This guide covers troubleshooting techniques for Azure Compute, Networking, and Security services. Each section includes detailed steps, commands, and common fixes.
 
- **Technical Skills**  
- **Azure Administration** – Compute, Storage, Networking, Traffic Manager, Key Vault  
- **Automation & Scripting** – PowerShell, Linux scripting, Azure automation workflows  
- **Troubleshooting & Optimization** – Performance tuning, connectivity debugging  
- **Cloud Security & Access Control** – Managing users, groups, and role-based access  
- **Web Server Management** – Hands-on experience with **Nginx** and system configurations  
+**Topics Covered**  
+ **Compute** – VM performance issues, disk failures, scaling problems  
+ **Networking** – Public IP issues, DNS resolution errors, connectivity troubleshooting  
+ **Security** – Key Vault access, RBAC misconfigurations, firewall rules
 
- **Projects & Contributions**  
- **Optimizing Azure VM configurations for performance efficiency**  
- **Automating resource provisioning using PowerShell and Terraform**  
- **Enhancing security with Azure Key Vault & role-based access control**  
- **Troubleshooting network latency issues in Azure environments**  
- **Exploring orchestration techniques for workflow optimization**  
-
- **Let's Connect!**  
- [GitHub](https://github.com/your-username)  
- [LinkedIn](https://www.linkedin.com/in/your-profile)  
- [Portfolio Website](https://yourportfolio.com)  
-
- **Always learning, always optimizing!** Let’s build something incredible together.  
+ **How to Contribute**  
+1. Fork the repository.  
+2. Submit a pull request with new troubleshooting insights.  
+3. Share real-world fixes for Azure-related issues.  
